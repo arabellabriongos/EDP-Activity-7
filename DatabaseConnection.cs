@@ -5,7 +5,6 @@ namespace BrewAndBiteCafe
 {
     /// <summary>
     /// Public class for MySQL database connectivity.
-    /// All forms use this class to obtain a connection.
     /// </summary>
     public class DatabaseConnection
     {
